@@ -1,8 +1,7 @@
 #pragma once
 #include <string>
+#include <vector>
 #include "n00b.h"
-
-using namespace std;
 
 class minion
 {
