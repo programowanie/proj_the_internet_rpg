@@ -8,11 +8,11 @@ int random()
 
 minion::minion()
 {
-	_name = "troll ";
+	_name = _possNames[rand()%10];
 	_hp = _baseHp = random();
 	_mana = _baseMana = random();
-	_attack = {10 + rand() % 30, 10 + rand() % 30};
-	_defence = {10 + rand() % 30, 10 + rand() % 30};
+	_attack = {20 + rand() % 30, 10 + rand() % 30};
+	_defence = {20 + rand() % 30, 10 + rand() % 30};
 
 }
 

@@ -6,6 +6,7 @@
 class minion
 {
 private:
+	string _possNames[10] = { "Troll ", "Grammar Nazi ", "Pedobear ", "PC Master Race ", "Rage Wolf ", "Moon Moon", "Chuck Norris ", "Bad Luck Brian", "Scumbag Steve ", "Good Guy Greg "};
 	string _name;
 	int _hp, _baseHp;
 	int _mana, _baseMana;
