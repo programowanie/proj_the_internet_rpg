@@ -1,6 +1,6 @@
-#Agieńczuk Krzysztof 
+# Agieńczuk Krzysztof 
 
-##The Internet RPG
+## The Internet RPG
 
 Tekstowa gra RPG opowiadająca historię młodego n00b’a trafiającego w odmęty Internetu. Głównym celem gry jest przechodzenie kolejnych dungeonów w celu skompletowania starożytnego artefaktu, jakim jest album internetowych memów (na końcu dungeonu n00b będzie otrzymywał jeden z memów). W miarę postępów n00b będzie zdobywał kolejne poziomy doświadczenia dzięki którym będzie mógł uczyć się nowych zdolności, które przydadzą mu się w walce, oraz zdobywać złoto, za które będzie mógł kupować nowy ekwipunek. 
 
